@@ -1,4 +1,9 @@
 # E09a-Scripting
+# Description:
+# We praticed how to designing the user interface in this assignment.
+# Such as creating labels to show the scores and lives,
+# update the scores and lives, and show gameover when the lives reach 0.
+# Also, we learned how to apply the DynamicFont, and the Font style, size etc.
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
 
